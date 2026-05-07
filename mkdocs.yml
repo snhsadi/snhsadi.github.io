@@ -77,6 +77,7 @@ nav:
   - Projects:
     - "All Projects": projects/index.md
     - "Sylhet Flood Mapping & Analysis (2024)": projects/sylhet-flood-2024.md
+    - "Automated Intertidal Mudflat Mapping: MSIC-Otsu & MTDI": projects/mudflat-2024.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
