@@ -34,7 +34,7 @@ This project provides a rapid-response mapping and quantitative analysis of the 
 <div class="project-card" markdown>
 ![](../assets/images/mudflat-2024.png)
 
-**[Automated Intertidal Mudflat Mapping: MSIC-Otsu & MTDI](sylhet-flood-2024.md)**
+**[Automated Intertidal Mudflat Mapping: MSIC-Otsu & MTDI](mudflat-2024.md)**
 
 Mapping intertidal mudflats is notoriously difficult due to constant tidal fluctuations and high water turbidity. This project introduces an automated, highly scalable pipeline to dynamically extract tidal flat extents in the Meghna Estuary (Dry Season 2024-2025). By iterating through specific temporal percentiles and applying dynamic thresholding, the algorithm isolates mudflats without requiring hard-coded, static index values.
 
