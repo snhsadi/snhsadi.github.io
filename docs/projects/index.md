@@ -20,7 +20,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/sylhet-flood.png)
 
-**[Sample Project](sylhet-flood-2024.md)**
+**[Sylhet Flood Mapping & Analysis (2024)](sylhet-flood-2024.md)**
 
 This project provides a rapid-response mapping and quantitative analysis of the 2024 floods in the Sylhet Division, Bangladesh. Using cloud-based geospatial processing in Google Earth Engine (GEE), the application dynamically calculates total inundated areas and flood percentages at the district level.
 
