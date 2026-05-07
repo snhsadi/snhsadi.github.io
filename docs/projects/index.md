@@ -18,16 +18,15 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/sylhet-flood.png)
 
-**[Sample Project](sample-project.md)**
+**[Sample Project](sylhet-flood-2024.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+This project provides a rapid-response mapping and quantitative analysis of the 2024 floods in the Sylhet Division, Bangladesh. Using cloud-based geospatial processing in Google Earth Engine (GEE), the application dynamically calculates total inundated areas and flood percentages at the district level.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`Google Earth Engine` `Sentine-1 SAR`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](sylhet-flood-2024.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
