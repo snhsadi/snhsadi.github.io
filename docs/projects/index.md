@@ -26,7 +26,21 @@ This project provides a rapid-response mapping and quantitative analysis of the 
 
 `Google Earth Engine` `Sentine-1 SAR`
 
-[View Project →](sylhet-flood-2024.md){ .md-button }
+[View Project →](mudflat-2024.md){ .md-button }
+</div>
+
+<div class="grid" markdown>
+
+<div class="project-card" markdown>
+![](../assets/images/mudflat-2024.png)
+
+**[Automated Intertidal Mudflat Mapping: MSIC-Otsu & MTDI](sylhet-flood-2024.md)**
+
+Mapping intertidal mudflats is notoriously difficult due to constant tidal fluctuations and high water turbidity. This project introduces an automated, highly scalable pipeline to dynamically extract tidal flat extents in the Meghna Estuary (Dry Season 2024-2025). By iterating through specific temporal percentiles and applying dynamic thresholding, the algorithm isolates mudflats without requiring hard-coded, static index values.
+
+`Google Earth Engine` `Sentinel-2` `MTDI`
+
+[View Project →](mudflat-2024.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
