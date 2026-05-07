@@ -47,7 +47,7 @@ Currently seeking fully funded PhD/MSc opportunities or advanced Research Assist
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/sadi-CV.pdf){ .md-button }
 
 
 ---
@@ -56,55 +56,45 @@ Currently seeking fully funded PhD/MSc opportunities or advanced Research Assist
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-layers:{ .lg .middle } **Remote Sensing & GIS**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
+    - Google Earth Engine, ArcGIS PRO, QGIS, Google Earth Pro.
     - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
+    - Python - GeoPandas, NumPy, GeoPy, geemap, LasPy
+    - JavaScript - JSON
+    - Basics of SQL and MATLAB
+    - Platforms- Google Colab, Jupyter Notebook, PyCharm, VS Code, GEE API
+ 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
+    - Supervised classification — Random Forest, SVM, XGBoost
+    - Deep learning for image segmentation — Unsupervised clustering
     - Object detection in satellite imagery
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
+    - Google Earth Engine Interactive Apps
+    - HTML, CSS
+    - Cloud storage — Google Cloud Storage
+    - Data formats — GeoTIFF, NetCDF. JSON
 
--   :material-database:{ .lg .middle } **Data & Cloud**
 
-    ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
-
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-airplane:{ .lg .middle } **UAV and LiDAR Data Processing**
 
     - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Photogrammetry: 3D Survey, TerraScan, Pix4D Mapper
+    - Point cloud processing: CloudCompare, LasTools
 </div>
 
 
@@ -112,5 +102,7 @@ Currently seeking fully funded PhD/MSc opportunities or advanced Research Assist
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/snhsadi){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/snh-sadi/){ .md-button }
+[ORCiD](https://orcid.org/0009-0009-7729-5170){ .md-button }
+[ResearchGate](https://www.researchgate.net/profile/Shah-Nurul-Hasnat-Sadi){ .md-button }
