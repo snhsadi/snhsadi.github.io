@@ -47,7 +47,7 @@ Currently seeking fully funded PhD/MSc opportunities or advanced Research Assist
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/sadi-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/sadi-cv.pdf){ .md-button }
 
 
 ---
