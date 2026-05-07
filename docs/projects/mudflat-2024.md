@@ -8,7 +8,9 @@ image: "/assets/images/mudflat95.png"
 Mapping intertidal mudflats is notoriously difficult due to constant tidal fluctuations and high water turbidity. This project introduces an automated, highly scalable pipeline to dynamically extract tidal flat extents in the Meghna Estuary (Dry Season 2024-2025). By iterating through specific temporal percentiles and applying dynamic thresholding, the algorithm isolates mudflats without requiring hard-coded, static index values.
 
 ## Methodology
+
 The workflow leverages the Maximum Spectral Index Composite (MSIC) approach combined with the novel Mudflat-Turbid Difference Index (MTDI).
+![Workflow diagram of the MSIC-Otsu and MTDI automated tidal flat extraction pipeline](/assets/images/mudflat-methodology.png)
 
 * **Data Acquisition & Preprocessing:** The analysis utilizes Sentinel-2 Harmonized Surface Reflectance imagery. To handle the complex coastal atmosphere, the Google Cloud Score+ (CS+) machine learning dataset was linked to the collection, filtering out pixels with a clear-sky probability below 50%.
 * **Maximal Water Extraction (Step A):** A quality mosaic based on the Modified Normalized Difference Water Index (mNDWI) was generated. An optimized, iterative Otsu thresholding algorithm was applied to the region's histogram to dynamically establish the absolute maximum water extent boundary.
@@ -25,4 +27,4 @@ To ensure mathematical transparency and reproducible research, the pipeline does
 * **Algorithms:** Optimized Otsu Thresholding, Maximum Spectral Index Compositing (MSIC), Focal Mode Filtering.
 
 ## Links
-* [View App](#) *(https://snhsadi.projects.earthengine.app/view/intertidal-mudflats-eastern-meghna-estuary-2024-25)*
+* [View App](https://snhsadi.projects.earthengine.app/view/intertidal-mudflats-eastern-meghna-estuary-2024-25)
