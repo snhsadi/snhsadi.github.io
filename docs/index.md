@@ -95,6 +95,13 @@ Currently seeking fully funded PhD/MSc opportunities or advanced Research Assist
     - Mission planning and flight operations
     - Photogrammetry: 3D Survey, TerraScan, Pix4D Mapper
     - Point cloud processing: CloudCompare, LasTools
+ 
+-   :material-airplane:{ .lg .middle } **Research and Writing**
+
+    - Systematic Literature Review, Gap Finding, Report Writing,
+    - Quantitative and Qualitative Data Collection and Analysis.
+    - Softwares- Zotero, LaTeX, NVivo
+
 </div>
 
 
