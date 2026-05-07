@@ -44,21 +44,21 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### M.Sc. in Geography and Environment
+**Jahangirnagar University** | *2026*
 
 [Optional: one sentence about your thesis, specialization, or coursework if relevant]
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### B.Sc. in Geography and Environment
+**Jahangirnagar University** | *2025*
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization], [Year]
+- End-to-End Google Earth Engine — Spatial Thoughts LLP), Aug 14th, 24. (ID: ST-GEE-745) [Verify](https://spatialthoughts.com/verify/){ .md-button }
 - [Certification Name] — [Issuing Organization], [Year]
 - [Certification Name] — [Issuing Organization], [Year]
 
