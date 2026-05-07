@@ -1,7 +1,7 @@
 ---
 title: "Sylhet Flood Mapping & Analysis (2024)"
 description: "Automated spatial analysis of the 2024 Sylhet regional flooding using multi-sensor geospatial data and Google Earth Engine."
-image: "https://github.com/snhsadi/snhsadi.github.io/blob/main/docs/assets/images/profile.png"
+image: "https://github.com/snhsadi/snhsadi.github.io/blob/main/docs/assets/images/sylhet-flood.png"
 ---
 
 ## Project Overview
