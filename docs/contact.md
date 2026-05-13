@@ -21,7 +21,7 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:sadi.49@geography-juniv.edu.bd) |
+| :material-email: **Email** | [sadi.49@geography-juniv.edu.bd](mailto:sadi.49@geography-juniv.edu.bd) |
 | :fontawesome-brands-github: **GitHub** | [https://github.com/snhsadi](https://github.com/snhsadi) |
 | :fontawesome-brands-linkedin: **LinkedIn** | [https://www.linkedin.com/in/snh-sadi](https://www.linkedin.com/in/snh-sadi) |
 | :material-school: **ResearchGate** | [https://www.researchgate.net/profile/Shah-Nurul-Hasnat-Sadi](https://www.researchgate.net/profile/Shah-Nurul-Hasnat-Sadi) |

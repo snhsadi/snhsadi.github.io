@@ -21,18 +21,18 @@ theme:
     # the 'default' (light) and 'slate' (dark) schemes.
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
-    - scheme: default            # Light mode
-      primary: light blue
-      accent: purple
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - scheme: slate              # Dark mode
       primary: indigo
       accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+    - scheme: default            # Light mode
+      primary: light blue
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
   features:
     - navigation.tabs            # Top-level nav items shown as horizontal tabs
     - navigation.top             # Back-to-top button when scrolling up
@@ -55,7 +55,7 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; Shah Nurul Hasnat Sadi"
+copyright: "Copyright &copy; Shah Nurul Hasnat Sadi, 2026"
 
 extra:
   social:
@@ -71,6 +71,7 @@ plugins:
   - search
   - meta
   - mkdocs-jupyter
+  - glightbox
 
 nav:
   - Home: index.md
@@ -78,7 +79,9 @@ nav:
     - "All Projects": projects/index.md
     - "Sylhet Flood Mapping & Analysis (2024)": projects/sylhet-flood-2024.md
     - "Automated Intertidal Mudflat Mapping: MSIC-Otsu & MTDI": projects/mudflat-2024.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
+    - "Gender Specific Single-Age Population Database": projects/single-pop.md
+    - "Interactive LULC-Explorer for Bangladesh": projects/bd-lulc.md
+    - "Quantifying Aboveground Carbon Stock": projects/carbon-stock.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
@@ -88,3 +91,4 @@ nav:
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md
+  - Gallery: gallery.md

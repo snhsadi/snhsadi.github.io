@@ -14,31 +14,15 @@ CHECKLIST FOR THIS PAGE:
 
 ## Journal Articles
 
-1. Shah Nurul Hasnat Sadi, M. Mahmudur Rahman, Md. Alamgir Hossen Bhuiyan, Rezaul Roni, Md Saifuzzaman, Mehedi Hasan Peas. “A Novel Approach for Automated Identification of Intertidal Mudflats in Dynamic Turbid Water Conditions” (Submitted to International Journal of Remote Sensing - IJRS, Taylor & Francis in May, 2026)
+1. Shah Nurul Hasnat Sadi, M. Mahmudur Rahman, Md. Alamgir Hossen Bhuiyan, Rezaul Roni, Md Saifuzzaman, Mehedi Hasan Peas. “A Novel Approach for Automated Identification of Intertidal Mudflats in Dynamic Turbid Water Conditions” (In peer-review: International Journal of Remote Sensing, Taylor & Francis; Submitted in 1st May, 2026)
 
-2. Rezaul Roni, Shah Nurul Hasnat Sadi, and Abdullah Al Mamun. “Quantifying Aboveground Carbon Stock at Species Level Using TLS LiDAR and UAV Photogrammetry for Urban Trees.” In Modern Geospatial Approaches for Environmental Monitoring and Management, edited by Mustafa Zeybek, Serkan Biçici, Mustafa Üstüner, and Ali Akbar Firoozi. London, UK: IntechOpen. Published April 2025. https://doi.org/10.5772/intechopen.1009808. 
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+2. Roni, Rezaul, Shah Nurul Hasnat Sadi, and Abdullah Al Mamun. 2025. “Quantifying aboveground carbon stock at species level using TLS LIDAR and UAV photogrammetry for urban trees.” In Earth Sciences: Modern Geospatial Approaches for Environmental Monitoring and Management. https://doi.org/10.5772/intechopen.1009808.
 
 ---
 
-## Conference Papers & Presentations
-
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
----
-
-## Theses
+## Thesis
 
 - Shah Nurul Hasnat Sadi (2026). *Percentile-Based Time-Series Compositing and SWIR-Red Indexing for Automated Intertidal Mudflat Extraction in Eastern Meghna Estuary*. M.Sc. thesis. Jahangirnagar University.
-
----
-
-## Reports & Technical Documents
-
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
 
 ---
 

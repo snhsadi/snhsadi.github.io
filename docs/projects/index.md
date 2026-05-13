@@ -29,8 +29,6 @@ This project provides a rapid-response mapping and quantitative analysis of the 
 [View Project →](sylhet-flood-2024.md){ .md-button }
 </div>
 
-<div class="grid" markdown>
-
 <div class="project-card" markdown>
 ![](../assets/images/mudflat-2024.png)
 
@@ -44,16 +42,39 @@ Mapping intertidal mudflats is notoriously difficult due to constant tidal fluct
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/single-pop.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Gender Specific Single-Age Population Database (2025)](single-pop.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Developed a Python notebook in Google Colab to process and analyze 4.8 million rows of national population census data to produce a compact gender-wise single age population database for 60,420 geocodes of Bangladesh.
 
-`Python` `pandas` `Folium`
+`Python` `Google Colab` `Data Processing`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Notebook →](single-pop.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/bd-lulc.png)
+
+**[GEE APP: 10-class Interactive LULC-Explorer for Bangladesh (2024)](bd-lulc.md)**
+
+Enabled visualization and download of 10-class LULC raster tiles (max 32 MB) for 8 Divisions to 5,160 Thanas in Bangladesh along with 2 infographics, utilizing the "ESA World Cover - 2020" database.
+
+`Google Earth Engine` `LULC` `Web App`
+
+[View Application →](bd-lulc.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/manik-miya.png)
+
+**[Quantifying Aboveground Carbon Stock (2025)](carbon-stock.md)**
+
+Quantifying aboveground carbon stock at the species level using TLS LiDAR and UAV photogrammetry for urban trees.
+
+`LiDAR` `UAV` `Photogrammetry`
+
+[View Project →](carbon-stock.md){ .md-button }
 </div>
 
 </div>
