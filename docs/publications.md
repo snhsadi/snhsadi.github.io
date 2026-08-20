@@ -14,15 +14,15 @@ CHECKLIST FOR THIS PAGE:
 
 ## Journal Articles
 
-1. Shah Nurul Hasnat Sadi, M. Mahmudur Rahman, Md. Alamgir Hossen Bhuiyan, Rezaul Roni, Md Saifuzzaman, Mehedi Hasan Peas. “A Novel Approach for Automated Identification of Intertidal Mudflats in Dynamic Turbid Water Conditions” (In peer-review: International Journal of Remote Sensing, Taylor & Francis; Submitted in 1st May, 2026)
+1. **Shah Nurul Hasnat Sadi**, M. Mahmudur Rahman, Md. Alamgir Hossen Bhuiyan, Rezaul Roni, Md Saifuzzaman, Mehedi Hasan Peas. “A Novel Approach for Automated Identification of Intertidal Mudflats in Dynamic Turbid Water Conditions” (In peer-review: International Journal of Remote Sensing, Taylor & Francis; Submitted in 1st May, 2026)
 
-2. Roni, Rezaul, Shah Nurul Hasnat Sadi, and Abdullah Al Mamun. 2025. “Quantifying aboveground carbon stock at species level using TLS LIDAR and UAV photogrammetry for urban trees.” In Earth Sciences: Modern Geospatial Approaches for Environmental Monitoring and Management. https://doi.org/10.5772/intechopen.1009808.
+2. Roni, Rezaul, **Shah Nurul Hasnat Sadi**, and Abdullah Al Mamun. 2025. “Quantifying aboveground carbon stock at species level using TLS LIDAR and UAV photogrammetry for urban trees.” In Earth Sciences: Modern Geospatial Approaches for Environmental Monitoring and Management. https://doi.org/10.5772/intechopen.1009808.
 
 ---
 
 ## Thesis
 
-- Shah Nurul Hasnat Sadi (2026). *Percentile-Based Time-Series Compositing and SWIR-Red Indexing for Automated Intertidal Mudflat Extraction in Eastern Meghna Estuary*. M.Sc. thesis. Jahangirnagar University.
+- **Shah Nurul Hasnat Sadi** (2026). *Percentile-Based Time-Series Compositing and SWIR-Red Indexing for Automated Intertidal Mudflat Extraction in Eastern Meghna Estuary*. M.Sc. thesis. Jahangirnagar University.
 
 ---
 

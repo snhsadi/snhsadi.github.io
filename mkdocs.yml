@@ -44,6 +44,9 @@ theme:
 extra_css:
   - assets/css/extra.css
 
+extra_javascript:
+  - assets/js/custom.js
+
 markdown_extensions:
   - md_in_html        # Allows Markdown inside HTML blocks (used for project cards)
   - attr_list         # Allows adding CSS classes to elements: ![img](url){ .class }
