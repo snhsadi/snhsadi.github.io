@@ -82,6 +82,7 @@ nav:
     - "Gender Specific Single-Age Population Database": projects/single-pop.md
     - "Interactive LULC-Explorer for Bangladesh": projects/bd-lulc.md
     - "Quantifying Aboveground Carbon Stock": projects/carbon-stock.md
+    - "Hudson Bay Lowlands Geospatial Dashboard": projects/hjbl-2026.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)

@@ -77,4 +77,16 @@ Quantifying aboveground carbon stock at the species level using TLS LiDAR and UA
 [View Project →](carbon-stock.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/hjbl-gee-app-thumbnail.png)
+
+**[GEE APP: Hudson Bay Lowlands Geospatial Dashboard (2026)](hjbl-2026.md)**
+
+A highly interactive geospatial web application serving as an environmental and climatic data dashboard for the Hudson Bay Lowlands. It allows researchers to perform complex spatial and temporal analyses, track climate trends (1991-2020), and export data on-the-fly.
+
+`Google Earth Engine` `Dashboard` `Climate Analysis`
+
+[View Application →](hjbl-2026.md){ .md-button }
+</div>
+
 </div>
