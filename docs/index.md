@@ -18,7 +18,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="SNH. Sadi" class="profile-photo">
+  <img src="assets/images/Portrait_Headshot.jpg" alt="SNH. Sadi" class="profile-photo">
   <h1>Shah Nurul Hasnat Sadi</h1>
   <strong>Research Fellow 
   <br> Bangladesh Space Research and Remote Sensing Organization (SPARRSO)</strong></p>
